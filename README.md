@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently studying Information Technology<br>👯 I'm looking to collaborate on the part of the project I am currently developing<br>🌱 I’m currently learning React Js, Node Js<br>💬 Ask me about As a Information Technology student at the Institute of Technology, University of Moratuwa. Proficient in Java, ReactJS, Flutter, HTML, CSS, and Dart, with foundational knowledge in JavaScript and Python. Currently spearheading a 1-year project on developing an Automated Futsal Smart System. Passionate about leveraging technology to drive innovation and enhance user experiences.<br>⚡ Fun fact - Cooking is my favorite way to unwind after a long day.<br>
+💬 Ask me about As a Information Technology student at the Institute of Technology, University of Moratuwa. Proficient in Java, ReactJS, Flutter, HTML, CSS, and Dart, with foundational knowledge in JavaScript and Python. Currently spearheading a 1-year project on developing an Automated Futsal Smart System. Passionate about leveraging technology to drive innovation and enhance user experiences.<br>⚡ Fun fact - Cooking is my favorite way to unwind after a long day.<br>
 
 
 # 💻 Tech Stack:
